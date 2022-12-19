@@ -1,2 +1,7 @@
-# gitbook-repo
-Repository to Host the Singularity Swarm Gotbook
+---
+description: Singularity SWARM GitBook
+---
+
+# 💫 The Singularity SWARM
+
+[SingularitySwarm.io](http://singularityswarm.io/)
