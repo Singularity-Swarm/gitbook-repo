@@ -1,7 +1,7 @@
 ---
-description: Singularity SWARM GitBook
+description: Supporting the growth of the SingularityNet Ecosystem and Community
 ---
 
-# 💫 The Singularity SWARM
+# 💫 Singularity Swarm
 
 [SingularitySwarm.io](http://singularityswarm.io/)
